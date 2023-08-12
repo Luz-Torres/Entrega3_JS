@@ -1,0 +1,23 @@
+[
+    {
+        "id":"1",
+        "nombre":"admin",
+        "correo":"abcde@gmail.com",
+        "contraseña":"admin",
+        "categoria":"administrador"
+    },
+    {
+        "id":"2",
+        "nombre":"luz",
+        "correo":"abcde@gmail.com",
+        "contraseña":"admin",
+        "categoria":"administrador"
+    },
+    {
+        "id":"3",
+        "nombre":"maria",
+        "correo":"ghnrt@gmail.com",
+        "contraseña":"aldsñv45",
+        "categoria":"cliente"
+    }
+]

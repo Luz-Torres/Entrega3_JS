@@ -1,0 +1,62 @@
+[
+    {
+        "id" :1,
+        "nombre" : "El señor de los anillos: La comunidad del anillo",
+        "autor" :"J.R.R. Tolkien",
+        "publicacion": 1954,
+        "editorial": "Minotauro",
+        "precio":8600,
+        "stock":7,
+        "img":"./assets/lordofrings1.webp"
+    },
+    {
+        "id" :2,
+        "nombre" : "El señor de los anillos: Las dos torres",
+        "autor" :"J.R.R. Tolkien",
+        "publicacion": 1954,
+        "editorial": "Minotauro",
+        "precio":8500,
+        "stock":5,
+        "img": "./assets/lordofrings2.webp"
+    },
+    {
+        "id" :3,
+        "nombre" : "El señor de los anillos: El retorno del rey",
+        "autor" :"J.R.R. Tolkien",
+        "publicacion": 1955,
+        "editorial": "Minotauro",
+        "precio":8100,
+        "stock":6,
+        "img": "./assets/lordofrings3.webp"
+    },
+    {
+        "id" :4,
+        "nombre" : "El Silmarillon",
+        "autor" :"J.R.R. Tolkien",
+        "publicacion": 1977,
+        "editorial": "Minotauro",
+        "precio":8000,
+        "stock":2,
+        "img": "./assets/elsilmarillon.webp"
+    },
+    {
+        "id" :5,
+        "nombre" : "El Hobbit",
+        "autor" :"J.R.R. Tolkien",
+        "publicacion": 1937,
+        "editorial": "Minotauro",
+        "precio":9000,
+        "stock":3,
+        "img": "./assets/elhobbit.webp"
+    },
+    {
+        "id" :6,
+        "nombre" : "Dune",
+        "autor":"Frank Herbert",
+        "publicacion": 1965,
+        "editorial": "De Bolsillo",
+        "precio":9000,
+        "stock":5,
+        "img": "./assets/dune1.webp"
+    }
+]
